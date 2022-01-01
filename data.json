@@ -1,0 +1,137 @@
+[
+    {
+        "hero": "Spider-Man",
+        "name": "Peter Benjamin Parker",
+        "link": "http://marvel.com/characters/54/spider-man",
+        "img": "https://www.latercera.com/resizer/2NbBQwrVzrEhZlTkG21WOLiOxC4=/arc-anglerfish-arc2-prod-copesa/public/NIDVF3H3WBFJXNALRHZZ4DTRVY.jpg",
+        "size": 40000,
+        "stats" : {
+            "durability" : 3,
+            "energy" : 1,
+            "fighting skills" : 4,
+            "inteligence " : 4,
+            "speed" : 3,
+            "strength" : 4
+        }
+    },
+    {
+        "hero": "CAPTAIN MARVEL",
+        "name": "Carol Danvers",
+        "link": "http://marvel.com/characters/9/captain_marvel",
+        "img": "https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2018/09/18/1253cefb-b75d-446c-a2ab-524c5b52677a/captain-marvel",
+        "size": 40000,
+        "stats" : {
+            "durability" : 7,
+            "energy" : 7,
+            "fighting skills" : 5,
+            "inteligence " : 6,
+            "speed" : 7,
+            "strength" : 7
+        }
+    },
+    {
+        "hero": "HULK",
+        "name": "Robert Bruce Banner",
+        "link": "http://marvel.com/characters/25/hulk",
+        "img": "https://elcomercio.pe/resizer/ej8TEb8rX04O_qPeWBLNXnSfmbw=/1200x900/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/BPCIWACGFZFA3FD7LB4G22ZXOU.jpg",
+        "size": 40000,
+        "stats" : {
+            "durability" : 7,
+            "energy" : 6,
+            "fighting skills" : 5,
+            "inteligence " : 6,
+            "speed" : 7,
+            "strength" : 7
+        }
+    },
+    {
+        "hero": "Black Widow",
+        "name": "Natalia 'Natasha' Alianovna",
+        "link": "http://marvel.com/characters/6/black_widow",
+        "img": "https://depor.com/resizer/ypvpFLLpTbQiuxMzFoftz7lQVhI=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/EHU7OZ6TZFE67IM6D7ADYGS44I.jpg",
+        "size": 40000,
+        "stats" : {
+            "durability" : 2,
+            "energy" : 1,
+            "fighting skills" : 6,
+            "inteligence " : 3,
+            "speed" : 3,
+            "strength" : 2
+        }
+    },
+    {
+        "hero": "Daredevil",
+        "name": "Matthew Michael Murdock",
+        "link": "http://marvel.com/characters/11/daredevil",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZr-hAm_NuC6xi0wjfksLBamw2cIrSH-0nhpT8E6I0IYwDuwESfZxY8S4RMu6LT6r-I90&usqp=CAU",
+        "size": 40000,
+        "stats" : {
+            "durability" : 3,
+            "energy" : 2,
+            "fighting skills" : 6,
+            "inteligence " : 7,
+            "speed" : 5,
+            "strength" : 5
+        }
+    },
+    {
+        "hero": "Wolverine",
+        "name": "James Howlett",
+        "link": "http://marvel.com/characters/66/wolverine",
+        "img": "https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/DPY64LKDDVHUFAG7FCT25HILIU.jpg",
+        "size": 40000,
+        "stats" : {
+            "durability" : 7,
+            "energy" : 4,
+            "fighting skills" : 6,
+            "inteligence " : 3,
+            "speed" : 3,
+            "strength" : 5
+        }
+    },
+    {
+        "hero": "Captain America",
+        "name": "Steven Rogers",
+        "link": "http://marvel.com/characters/8/captain_america",
+        "img": "https://media.vandalsports.com/i/640x360/4-2021/2021427125442_1.jpg",
+        "size": 40000,
+        "stats" : {
+            "durability" : 3,
+            "energy" : 1,
+            "fighting skills" : 6,
+            "inteligence " : 3,
+            "speed" : 2,
+            "strength" : 3
+        }
+    },
+    {
+        "hero": "Iron Man",
+        "name": "Anthony Edward 'Tony' Stark",
+        "link": "http://marvel.com/characters/29/iron_man",
+        "img": "https://es.web.img3.acsta.net/newsv7/20/05/07/12/52/3980724.jpg",
+        "size": 40000,
+        "stats" : {
+            "durability" : 6,
+            "energy" : 6,
+            "fighting skills" : 4,
+            "inteligence " : 6,
+            "speed" : 5,
+            "strength" : 6
+        }
+    },
+    {
+        "hero": "THOR",
+        "name": "Thor Odinson",
+        "link": "http://marvel.com/characters/60/thor",
+        "img": "https://www.quever.news/u/fotografias/m/2020/9/12/f608x342-1140_30863_0.jpg",
+        "size": 40000,
+        "stats" : {
+            "durability" : 5,
+            "energy" : 6,
+            "fighting skills" : 6,
+            "inteligence " : 4,
+            "speed" : 7,
+            "strength" : 6
+        }
+    }
+]
